@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.wrangler/
+.sites-runtime/
+.env
+.dev.vars
+*.log
+*.tsbuildinfo
+playtest/
+.runtime/
